@@ -1,4 +1,4 @@
-# Hey there, I'm [Your Name] 👋
+# Hey there, I'm Raj Malpure 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Startup+Enthusiast;Problem+Solver;Always+Learning&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
@@ -8,11 +8,9 @@
 
 I'm a passionate **Full-Stack Developer** on a mission to build innovative products that solve real-world problems. Currently exploring startup opportunities and building scalable applications that make a difference.
 
-- 🔭 I'm currently working on **[Your Current Project/Startup Idea]**
 - 🌱 I'm currently learning **AI/ML integration, Advanced React patterns, Cloud Architecture**
 - 👯 I'm looking to collaborate on **innovative startup ideas and open source projects**
 - 💡 I'm passionate about **turning ideas into profitable, scalable products**
-- 📫 How to reach me: **[your-email@example.com]**
 - ⚡ Fun fact: **I can debug code faster after my third cup of coffee ☕**
 
 ---
