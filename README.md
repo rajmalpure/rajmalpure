@@ -40,7 +40,6 @@ I'm a passionate **Full-Stack Developer** on a mission to build innovative produ
 
 ### AI & Machine Learning
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
@@ -58,64 +57,6 @@ I'm a passionate **Full-Stack Developer** on a mission to build innovative produ
 
 ---
 
-## 🎯 Featured Projects
-
-### 🚀 [Project Name 1] - SaaS Startup
-> Brief description of your most impressive project
-
-**Tech Stack:** React, Node.js, PostgreSQL, AWS  
-**Features:** Key features that demonstrate your skills  
-**Impact:** User metrics, revenue, or other achievements
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/project1)
-[![Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-green?style=for-the-badge&logo=vercel)](https://project1-demo.com)
-
-### 💡 [Project Name 2] - AI-Powered Tool
-> Description of another significant project
-
-**Tech Stack:** Python, FastAPI, OpenAI API, React  
-**Features:** AI integration, real-time features, etc.  
-**Learning:** What you learned or problems you solved
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-blue?style=for-the-badge&logo=github)](https://github.com/yourusername/project2)
-[![Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-green?style=for-the-badge&logo=vercel)](https://project2-demo.com)
-
-### 🌟 [Project Name 3] - Open Source Contribution
-> Your contribution to open source or a community project
-
-**Contribution:** What you added or fixed  
-**Impact:** How it helped the community  
-**Skills Demonstrated:** Technical and collaboration skills
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Code-blue?style=for-the-badge&logo=github)](https://github.com/organization/project3)
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🎖️ **AWS Certified Developer Associate** (2024)
-- 🏅 **Google Cloud Professional Developer** (2023)
-- 🥇 **Won [Hackathon Name]** - Built winning solution in 48 hours
-- 📜 **[Other Relevant Certifications]**
-- 📈 **Built and scaled applications serving 10K+ users**
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
-## 💼 What I'm Working On
-
-### Current Focus Areas
-- 🚀 **Startup Development:** Building scalable SaaS products
-- 🤖 **AI Integration:** Implementing AI features in web applications  
-- ☁️ **Cloud Architecture:** Designing resilient, scalable systems
-- 📱 **Mobile Development:** Cross-platform apps with React Native
 
 ### Looking for Opportunities
 - 💡 **Co-founder positions** in early-stage startups
@@ -123,35 +64,5 @@ I'm a passionate **Full-Stack Developer** on a mission to build innovative produ
 - 💬 **Mentoring** junior developers
 - 🎯 **Freelance/Consulting** for high-impact projects
 
----
 
-## 📫 Let's Connect!
 
-I'm always interested in discussing new technologies, startup ideas, or potential collaborations!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" />
-  
-  <h3>💭 Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-### 🎵 Currently Coding To
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=yourspotifyusername&count=1)](https://open.spotify.com/user/yourspotifyusername)
-
-<div align="center">
-  <i>⭐️ From [yourusername](https://github.com/yourusername) - Let's build something amazing together!</i>
-</div>
